@@ -1,2 +1,2 @@
 # dbOpers
-微信mysql操作前端
+微型mysql操作前端
