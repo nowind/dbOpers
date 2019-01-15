@@ -7,9 +7,9 @@
   2. 配置 dbconf.py 
   3. python server.py 后端端口
   4. 配置nginx
-    * / => html/index.html
-    * /static => 指向静态目录 static
-    * ~ .json$ => 反代到webpy开的服务端口
+     * / => html/index.html
+     * /static => 指向静态目录 static
+     * ~ .json$ => 反代到webpy开的服务端口
     
 ## 特色
 在 zealot 基础上去掉也些并不是用很多的功能,兼容各浏览器,操作更流畅,查询语句带简单的自动补全
